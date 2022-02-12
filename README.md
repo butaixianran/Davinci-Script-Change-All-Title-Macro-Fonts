@@ -6,7 +6,7 @@ Then you need this script.
 
 It gonna scan all macros in the folder you select, and change their fonts into the one you like, then write the data back to file.  
 
-So, you'll never has a title macro can't preview. You'll never need to install a font you don't need.  
+So, you'll never have a title macro can't preview. You'll never need to install a font you don't need.  
 
 # OS
 **Only works on windows!**  
